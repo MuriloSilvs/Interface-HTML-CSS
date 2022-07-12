@@ -1,2 +1,2 @@
-# Interface-HTML-CSS
-Repositório que contém códigos estudados em HTML/CSS/JavaScript
+# Projetos_FIGMA
+Repositório que contém projetos utilizando a ferramenta Figma
